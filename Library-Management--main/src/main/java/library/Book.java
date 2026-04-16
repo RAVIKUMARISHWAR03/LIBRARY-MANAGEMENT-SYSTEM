@@ -20,6 +20,7 @@ public class Book {
         this.available = available;
         this.borrowedBy = borrowedBy;
         this.dueDate = dueDate;
+        
     }
 
     public Book(String isbn, String title, String author, int year) {
